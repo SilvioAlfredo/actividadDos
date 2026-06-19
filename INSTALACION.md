@@ -1,3 +1,9 @@
 # Instalación
 
-Pendiente.
+## Requisitos
+
+* Git
+
+## Clonado
+
+git clone URL
